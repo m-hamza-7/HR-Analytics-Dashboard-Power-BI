@@ -28,20 +28,38 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
 - <a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Pizza%20Sales%20Data%20Analysis.xlsx">Dataset</a>
 ## KPIs
 <ul>
-  <li>Determine Total Revenue</li>
-  <li>Average Order Value</li>
-  <li>Total Pizzas Sold</li>
-  <li>Total Orders</li>
-  <li>Average Pizzas Per Order</li>
+  <li>Presence Percentage</li>
+  <li>Sick Leave Percentage (SL%)</li>
+  <li>Work from Home Percentage (WFH%)</li>
+  <li>Total Leaves Taken</li>
+  <li>Average Leaves per Employee</li>
 </ul>
 
-## Assesed Business Performance by:
+## Patterns Analyzed by:
+
+### Daily and Monthly Trends:
 <ul>
-  <li>Creating daily and hourly trend charts to identify patterns and peak order times</li>
-  <li>Generating pie charts to show sales percentages by pizza category and size, highlighting customer preferences</li>
-  <li>Using bar charts to compare total pizzas sold by category and identify top 5 best-selling and bottom 5 worst-selling pizzas</li>
-  <li>Providing actionable insights to optimize inventory, marketing strategies, and operational efficiency based on data analysis</li>
-  <li>Dashboard Interactions <a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/MyDashboard.png">View Dashboard</a></li>
+  <li>Created trend charts to analyze daily and monthly patterns in Presence %, SL%, and WFH%.</li>
+  <li>Identified peak attendance days and months with high leave utilization.</li>
+</ul>
+
+###  Leave Distribution:
+<ul>
+  <li>Generated visualizations to show the distribution of different leave types (e.g., Sick Leave, Paid Leave, Work from Home).</li>
+  <li>Highlighted the most frequently used leave types and their impact on productivity.</li>
+</ul>
+
+### Employee-Level Insights:
+<ul>
+  <li>Analyzed individual employee attendance records to identify patterns in absenteeism and remote work.</li>
+  <li>Compared top-performing employees with those requiring HR intervention.</li>
+</ul>
+
+### Actionable Insights:
+<ul>
+<li>Suggested strategies to optimize leave policies and improve attendance rates.</li>
+<li>Recommended initiatives to enhance employee productivity and satisfaction.</li>
+<li>Dashboard Interactions <a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/MyDashboard.png">View Dashboard</a></li>
 </ul>
 
 ## Visualizations
