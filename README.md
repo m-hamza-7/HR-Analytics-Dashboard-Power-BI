@@ -9,7 +9,6 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
     <li>Presence Percentage, Sick Leave Percentage (SL%), and Work from Home Percentage (WFH%) for each employee.</li>
 </ul>
 
-
  ### Visualize Attendance Trends:
 <ul>
     <li>Analyze daily and monthly trends in attendance metrics.</li>
@@ -19,7 +18,6 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
 <ul>
     <li>Assess the usage of different types of leaves (e.g., Sick Leave, Paid Leave, Work from Home).</li>
 </ul>
-
 
  ### Support Data-Driven Decisions:
 <ul>
