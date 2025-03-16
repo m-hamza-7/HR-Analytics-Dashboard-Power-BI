@@ -68,13 +68,14 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
   <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/monthly%20basis%20%25age.png">Monthly Trend for Attendance Metrics</a></li>
   <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Leave%20Distribution%20by%20Type.png">Leave Distribution by Type</a></li>
   <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Employee-Level%20Attendance%20Analysis.png">Employee-Level Attendance Analysis</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Top5.png">Top 5 Best-Selling</a></li>
+  <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Trends%20by%20Different%20Leave.png">Trends Over Different Time Span</a></li>
   
 </ul>
 
 ## Technologies Used
-- Excel
-- SQL
+- Power BI: For data cleaning, transformation, and dashboard design.
+- Power Query: For advanced data preparation and transformation.
 
 ## Dashboard
-![MyDashboard](https://github.com/user-attachments/assets/c2d8406a-e0d8-4b57-9a83-48fa8f697c0d)
+![Dashboard](https://github.com/user-attachments/assets/f541e129-e72c-4212-988e-0c76ab8db87e)
+
