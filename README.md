@@ -25,7 +25,7 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
 </ul>
 
 ## Dataset Used
-- <a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Pizza%20Sales%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Data%20Set%20Attendance%20Sheet%202022-2023.xlsx">Dataset</a>
 ## KPIs
 <ul>
   <li>Presence Percentage</li>
@@ -64,12 +64,11 @@ This project focuses on HR analytics using real-world data from AtliQ, an Indian
 
 ## Visualizations
 <ul>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/commit/36e56d9d5cda3ded7a9ac54d820507dd3ee428cf">Daily Trend for Orders</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/HourlyTrends.png">Hourly Trend for Orders</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/sales%20by%20category.png">Sales by Pizza Category</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Sales%20by%20size.png">Sales by Pizza Size</a></li>
+  <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/daily%20basis%20%25age.png">Daily Trend for Attendance Metrics</a></li>
+  <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/monthly%20basis%20%25age.png">Monthly Trend for Attendance Metrics</a></li>
+  <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Leave%20Distribution%20by%20Type.png">Leave Distribution by Type</a></li>
+  <li><a href="https://github.com/m-hamza-7/HR-Analytics-Dashboard-Power-BI/blob/main/Employee-Level%20Attendance%20Analysis.png">Employee-Level Attendance Analysis</a></li>
   <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Top5.png">Top 5 Best-Selling</a></li>
-  <li><a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/Worst5.png">Bottom 5 Worst-Selling</a></li>
   
 </ul>
 
